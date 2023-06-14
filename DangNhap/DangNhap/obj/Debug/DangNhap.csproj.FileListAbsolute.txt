@@ -1,0 +1,14 @@
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\bin\Debug\DangNhap.exe.config
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\bin\Debug\DangNhap.exe
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\bin\Debug\DangNhap.pdb
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.AssemblyReference.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.fLogin.resources
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.Properties.Resources.resources
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.GenerateResource.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.CoreCompileInputs.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.exe
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.pdb
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.fManager.resources
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.fAccountProfile.resources
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\QD2\DangNhap\DangNhap\obj\Debug\DangNhap.fAdmin.resources
